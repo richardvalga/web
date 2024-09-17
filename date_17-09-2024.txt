@@ -4,11 +4,11 @@
 07:50;WTA Torneo de Seúl 1ª Ronda;S. Stephens;H. Baptiste;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 09:45;WTA Torneo de Seúl 1ª Ronda;P. Stearns;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 10:00;Valladolid Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:10;WTA Torneo de Tailandia 1ª Ronda;L. Tsurenko;M. Linette;WTA TV;
-11:50;WTA Torneo de Seúl 1ª Ronda;A. Tomljanovic;S. Jang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-12:40;WTA Torneo de Tailandia 1ª Ronda;M. Sawangkaew;R. Sramkova;WTA TV;
+12:45;WTA Torneo de Seúl 1ª Ronda;A. Tomljanovic;S. Jang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:10;WTA Torneo de Tailandia 1ª Ronda;L. Tsurenko;M. Linette;WTA TV;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Costa Rica;Holanda;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Tailandia;Cuba;FIFA+;
+15:20;WTA Torneo de Tailandia 1ª Ronda;M. Sawangkaew;R. Sramkova;WTA TV;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Brasil;Croacia;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Uzbekistán;Paraguay;FIFA+;
 18:45;Champions League Fase Liga;Juventus;PSV Eindhoven;M+ Liga de Campeones 2 (M61 O116);
