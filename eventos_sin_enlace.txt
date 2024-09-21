@@ -7,11 +7,11 @@
 07:30;WTA Torneo de Seúl;Semifinal 1;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 08:30;Torneo de Chengdú 2ª Ronda;L. Musetti;C. O'Connell;ATP Tennis TV;
 09:00;Torneo de Hangzhou 2ª Ronda;R. Carballés;M. Krueger;ATP Tennis TV;
-09:00;WTA Torneo de Tailandia;Semifinal 1;WTA 250;WTA TV;DAZN (Regístrate);
 10:30;Torneo de Chengdú 2ª Ronda;R. Safiullin;J. Shang;ATP Tennis TV;
 10:30;Torneo de Hangzhou 2ª Ronda;H. Rune;Y. Uchiyama;ATP Tennis TV;
 10:30;WTA Torneo de Seúl;Semifinal 2;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-11:00;WTA Torneo de Tailandia;Semifinal 2;WTA 250;WTA TV;DAZN (Regístrate);
+11:00;WTA Torneo de Tailandia Semifinal 1 WTA 250;R. Sramkova;T. Zidansek;WTA TV;DAZN (Regístrate);
+12:30;WTA Torneo de Tailandia Semifinal 2 WTA 250;A. Hartono;L. Siegemund;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Hangzhou 2ª Ronda;Zh. Zhang;M. Bellucci;ATP Tennis TV;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Kazajistán;Nueva Zelanda;FIFA+;
 15:45;Primus Classic;UCI ProSeries;MAX;
