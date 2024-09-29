@@ -171,7 +171,7 @@ acestream://60296c246e3596f334903fefd48cfaa724a5053b
 M.L. Campeones 17 SD 
 acestream://60296c246e3596f334903fefd48cfaa724a5053b 
 M. Golf 1080 
-acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4 
+acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81 
 M. Golf2 1080 
 acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5 
 DAZN 1 1080 
