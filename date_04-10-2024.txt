@@ -28,7 +28,7 @@
 20:00;Título Mundial Peso Gallo;M. Waseem;S. Cebekhulu;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Velada Peso Gallo;M. McHale;A. Twaha;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Velada Peso Welter;A. Hachimi;K. Salazar;GolStadium (acceder);
-20:30;LaLiga Hypermotion Estadio El Alcoraz, Huesca;Huesca;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M2;
+20:30;LaLiga Hypermotion Estadio El Alcoraz, Huesca;Huesca;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;GolStadium Premium (acceder);LaLiga TV M2;
 21:00;Euroliga Liga Regular;Paris Basketball;Crvena Zvezda MTS Belgrade;M+ Deportes (63);
 21:00;Euroliga Liga Regular;Virtus Bologna;Anadolu Efes Istanbul;M+ Deportes 6 (193);
 21:00;La Liga EA Sports;Leganés;Valencia CF;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
