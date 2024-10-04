@@ -18,10 +18,10 @@
 14:00;Masters Shanghai 2ª Ronda;A. Vukic;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;París Major;1/4 de final masculino;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 15:00;Tour de Croacia;Etapa 4;Krk › Labin (160,5 km);MAX;
-16:00;Torneo de Villena 1/4 de Final ATP Challenger Tour;D. Ajdukovic;K. Majchrzak;MAX;DAZN (Regístrate);Eurosport 2;
+16:00;Torneo de Villena 1/4 de Final ATP Challenger Tour;D. Ajdukovic;K. Majchrzak;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
 18:00;NBA Pretemporada;Denver Nuggets;Boston Celtics;M+ Deportes 3 (65);
 18:00;París Major;1/4 de final femenino;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 7 (194);
-18:00;Torneo de Villena 1/4 de Final ATP Challenger Tour;M. Landaluce;H. Grenier;MAX;DAZN (Regístrate);Eurosport 2;
+18:00;Torneo de Villena 1/4 de Final ATP Challenger Tour;M. Landaluce;H. Grenier;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
 19:30;Euroliga Liga Regular;Fenerbahce Istanbul;Olympiacos Piraeus;M+ Deportes 2 (64);
 20:00;París Major;1/4 de final femenino;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 7 (194);
 20:00;Primera FEB Liga Regular;Real Betis Baloncesto;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
