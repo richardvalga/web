@@ -1,6 +1,0 @@
-05:00;WTA Wuhan;1ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
-06:00;Masters Shanghai 2ª Ronda;T. Fritz;T. Atmane;ATP Tennis TV;M+ Deportes 5 (192);
-06:30;Masters Shanghai;3ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
-07:30;Masters Shanghai 2ª Ronda;Z. Bergs;G. Dimitrov;ATP Tennis TV;M+ Deportes 6 (193);
-12:30;Masters Shanghai 2ª Ronda;M. Berrettini;H. Rune;ATP Tennis TV;M+ Deportes 6 (193);
-15:00;Coppa Bernocchi;UCI ProSeries;Legnano › Legnano (174,3 km);MAX;DAZN (Regístrate);Eurosport 2;
