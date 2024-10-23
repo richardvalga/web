@@ -7,7 +7,7 @@
 12:40;WTA Torneo de Guangzhou 2ª Ronda;S. Wei;Xi. Wang;WTA TV;
 17:00;Eurocup Women;KP Brno;Galatasaray Istanbul;FIBA YouTube;
 17:00;FIBA Europe Cup;BC Sabah;Norrköping Dolphins;FIBA YouTube;
-17:00;Futsal Champions League Ronda Principal;Jimbee Cartagena FS;Bielsko-Biala;Canal por confirmar;
+17:00;Futsal Champions League Ronda Principal;Jimbee Cartagena FS;Bielsko-Biala;Telecartagena;
 17:30;Eurocup Women;Peli-Karhut Basketball;Rutronik Stars Keltern;FIBA YouTube;
 18:00;Eurocup Women Liga Regular;Peac Pecs;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
 18:00;Eurocup Women;Pieštanské Cajky;Sopron Basket;FIBA YouTube;
