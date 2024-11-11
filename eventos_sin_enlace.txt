@@ -1,8 +1,0 @@
-00:00;NBA Liga Regular;Orlando Magic;Washington Wizards;NBA League Pass;
-01:00;NBA Liga Regular;Minnesota Timberwolves;Miami Heat;NBA League Pass;
-01:00;NBA Liga Regular;Oklahoma C. Thunder;Golden State Warriors;NBA League Pass;
-01:00;NBA Liga Regular;Philadelphia 76ers;Charlotte Hornets;NBA League Pass;
-02:00;NBA Liga Regular;Denver Nuggets;Dallas Mavericks;NBA League Pass;
-02:00;NBA Liga Regular;Phoenix Suns;Sacramento Kings;NBA League Pass;
-03:00;NBA Liga Regular;Portland Trail Blazers;Memphis Grizzlies;NBA League Pass;
-03:30;NBA Liga Regular;Los Angeles Lakers;Toronto Raptors;NBA League Pass;
