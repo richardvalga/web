@@ -1,10 +1,1 @@
-01:00;Velada Peso Gallo;D. Crowder;D. Micah;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-02:00;NBA Liga Regular;Boston Celtics;Toronto Raptors;NBA League Pass;
-02:00;UFC UFC 309;J. Jones;S. Miocic;MAX;
-02:30;NBA Liga Regular;Dallas Mavericks;San Antonio Spurs;NBA League Pass;
-04:00;NBA Liga Regular;Sacramento Kings;Utah Jazz;NBA League Pass;
-05:45;Supercars Championship;Adelaide Street Circuit;Carrera 2;DAZN (Regístrate);
-12:30;Primera FEB Liga Regular;Real Betis Baloncesto;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
-18:00;Primera FEB Liga Regular;Gipuzkoa Basket;Baloncesto Fuenlabrada;LaLiga+ Plus;
-20:00;Lega Serie A Liga Regular;Virtus Bologna;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-23:00;NBA Liga Regular;Indiana Pacers;Miami Heat;NBA League Pass;
+13:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
