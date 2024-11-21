@@ -12,7 +12,7 @@
 12:30;FIBA AsiaCup Fase de Clasificación;China;Guam;DAZN (Regístrate);
 12:30;FIBA AsiaCup Fase de Clasificación;Filipinas;Nueva Zelanda;DAZN (Regístrate);
 13:00;FIBA AsiaCup Fase de Clasificación;Tailandia;Australia;DAZN (Regístrate);
-15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
+15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;Tennis Channel (Orange 123);GolStadium (acceder);
 17:00;Eurocup Women Liga Regular;BC Yerevan Foxes;Peac Pecs;FIBA YouTube;
 17:00;Eurocup Women Liga Regular;Bodrum Basketbol;Pieštanské Cajky;FIBA YouTube;
 18:00;Eurobasket Fase de Clasificación;Chipre;Francia;DAZN (Regístrate);
