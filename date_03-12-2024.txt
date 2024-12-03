@@ -12,7 +12,7 @@
 19:00;Amistoso Femenino;España;Italia;Teledeporte;RTVE Play;
 19:00;Copa del Rey 2ª Ronda;Real Ávila;Real Valladolid;M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
 19:00;La Liga EA Sports;Mallorca;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
-20:00;Copa del Rey 2ª Ronda;Yeclano;Elche;Canal por confirmar;
+20:00;Copa del Rey 2ª Ronda;Yeclano;Elche;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Dreamland Gran Canaria;M+ Deportes 3 (65);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Real Madrid Baloncesto;M+ Deportes 2 (64);
 20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;FC Porto CB;FIBA YouTube;Aragón Deporte;
