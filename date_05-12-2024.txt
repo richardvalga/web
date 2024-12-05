@@ -1,8 +1,10 @@
+01:00;Partido de Exhibición Nueva York (Estados Unidos);J. Pegula;E. Navarro;Tennis Channel (Orange 123);
 01:30;NBA Liga Regular;Boston Celtics;Detroit Pistons;NBA League Pass;
 01:30;NBA Liga Regular;Brooklyn Nets;Indiana Pacers;NBA League Pass;
 01:30;NBA Liga Regular;Miami Heat;Los Angeles Lakers;M+ Deportes (63);
 01:30;NBA Liga Regular;Philadelphia 76ers;Orlando Magic;NBA League Pass;
 02:00;NBA Liga Regular;Milwaukee Bucks;Atlanta Hawks;NBA League Pass;
+03:00;Partido de Exhibición Nueva York (Estados Unidos);C. Alcaraz;B. Shelton;Tennis Channel (Orange 123);
 04:30;NBA Liga Regular;Los Angeles Clippers;Minnesota Timberwolves;NBA League Pass;
 10:00;Milan Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 18:00;San Juan Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 4 (M197);
