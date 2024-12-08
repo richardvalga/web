@@ -1,5 +1,6 @@
 01:00;NBA Liga Regular;New Orleans Pelicans;Oklahoma C. Thunder;NBA League Pass;
 01:00;NBA Liga Regular;Washington Wizards;Denver Nuggets;NBA League Pass;
+01:00;Título Internacional Peso Superligero;L. Paro;R. Hitchins;DAZN (Regístrate);DAZN 3 (M196);
 01:30;NBA Liga Regular;New York Knicks;Detroit Pistons;NBA League Pass;
 01:30;NBA Liga Regular;Toronto Raptors;Dallas Mavericks;Movistar Plus+ (M7);M+ Deportes (63);
 02:00;NBA Liga Regular;Boston Celtics;Memphis Grizzlies;NBA League Pass;
