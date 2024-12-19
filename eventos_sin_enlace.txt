@@ -1,2 +1,10 @@
 10:00;World Tennis League;Falcons;Hawks;Tennis Channel (Orange 123);
 14:00;World Tennis League;Eagles;Kites;Tennis Channel (Orange 123);
+17:00;Eurocup Women Play-Off;Olympiacos Piraeus;Peac Pecs;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Besiktas JK Istanbul;Gorzów Basketball;FIBA YouTube;
+18:00;Eurocup Women Play-Off;DVTK HUN-Therm;Elitzur Ramla;FIBA YouTube;
+18:00;Eurocup Women Play-Off;UNI Györ;KSC Szekszard;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Zaglebie Sosnowiec;UFAB 49;FIBA YouTube;
+18:30;Eurocup Women Play-Off;Sopron Basket;GEAS Basket;FIBA YouTube;
+20:00;Eurocup Women Play-Off;Castors Braine;BAXI Ferrol;FIBA YouTube;TVG2 (Galicia);
+20:30;Eurocup Women Play-Off;Spar Girona;Magnolia Campobasso;FIBA YouTube;Esport3 (Cataluña);
