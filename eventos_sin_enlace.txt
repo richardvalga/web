@@ -1,4 +1,3 @@
-00:00;NBA Liga Regular;Sacramento Kings;Indiana Pacers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 00:00;NBA Liga Regular;Toronto Raptors;Houston Rockets;NBA League Pass;
 01:00;NBA Liga Regular;New Orleans Pelicans;Denver Nuggets;NBA League Pass;
 19:00;Lega Serie A Liga Regular;AX Olimpia Milano;Trapani Shark;DAZN (Regístrate);DAZN App Gratis (Regístrate);
