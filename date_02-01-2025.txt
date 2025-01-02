@@ -36,3 +36,4 @@
 20:30;Liga Endesa Liga Regular;UCAM Murcia CB;Unicaja Málaga;M+ Deportes 2 (64);
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Hapoel Tel Aviv BC;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 21:30;Liga Endesa Liga Regular;La Laguna Tenerife;Casademont Zaragoza;M+ Deportes 3 (65);
+23:30;WTA Torneo de Auckland 1/4 de Final;B. Pera;R. Montgomery;WTA TV;
