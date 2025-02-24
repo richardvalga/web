@@ -78,7 +78,7 @@ canales_eurosport2="$(mktemp)" ; grep -A1 -i -e 'eurosport *2' ace_ids.txt > $ca
 
 
 ##Descarga del fichero de horarios y formateado##
-curl -s --max-time 5 https://www.futbolenlatv.es/competicion/la-liga | pandoc -f html > $futbol
+curl -s --max-time 5 https://www.futbolenlatv.es/deporte | pandoc -f html > $futbol
 sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol > $filecanales
 
