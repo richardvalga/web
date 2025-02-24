@@ -5,7 +5,7 @@ save_to_path = 'ace_ids.txt'
 
 def get_acelinks_ipfs():
 
-    url = 'https://proxy.zeronet.dev/1Gg6PxRS3HD9WdfNMRAccCHmH7LGP6MTd6/'
+    url = 'https://ipfs.io/ipns/elcano.top'
 
     '''
     # TOR USAGE. UNCOMMENT LINE INSIDE try/except BOLOCK:
