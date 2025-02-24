@@ -5,7 +5,7 @@ save_to_path = 'ace_ids.txt'
 
 def get_acelinks_ipfs():
 
-    url = 'https://bafybeihjt6udkflw7wcgyn6vxbflg4szvlnvtfct3ucpp5ervz5rrh7i3e.ipfs.dweb.link/?filename=index.html'
+    url = 'https://proxy.zeronet.dev/1Gg6PxRS3HD9WdfNMRAccCHmH7LGP6MTd6/'
 
     '''
     # TOR USAGE. UNCOMMENT LINE INSIDE try/except BOLOCK:
