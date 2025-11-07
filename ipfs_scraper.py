@@ -5,8 +5,8 @@ import json
 def get_acelinks_ipfs():
 
     # NEW LIST??
-    url = 'https://ipfs.io/ipns/k51qzi5uqu5dgg9al11vomikugim0o1i3l3fxp3ym3jwaswmy9uz8pq4brg1u9'
-    #url = 'https://ipfs.io/ipns/elcano.top'
+    url = 'https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas'
+    #url = 'https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas'
     # OLD STATIC LIST
     #url = 'https://bafybeihaak6jp7c6y3weyynkfruefwtgchvx2uuppmtts775k4z7kyw4ny.ipfs.dweb.link'
     '''
